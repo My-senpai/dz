@@ -25,7 +25,7 @@ void Print(int[] array)
     System.Console.WriteLine();
 }
 
-void check(int[] array)
+void summa(int[] array)
 {
     int sum = 0;
     for (int i = 1; i < array.Length; i = i+2)
@@ -39,7 +39,7 @@ void check(int[] array)
 
 int[] arry = PositiveArray();
 Print(arry);
-check(arry);
+summa(arry);
 
 
 
