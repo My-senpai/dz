@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "zad0_Extra/1.0.0": {
+        "runtime": {
+          "zad0_Extra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zad0_Extra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
