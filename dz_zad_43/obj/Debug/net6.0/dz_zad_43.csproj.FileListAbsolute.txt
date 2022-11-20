@@ -1,0 +1,15 @@
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\obj\Debug\net6.0\dz_zad_43.csproj.AssemblyReference.cache
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\obj\Debug\net6.0\dz_zad_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\obj\Debug\net6.0\dz_zad_43.AssemblyInfoInputs.cache
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\obj\Debug\net6.0\dz_zad_43.AssemblyInfo.cs
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\obj\Debug\net6.0\dz_zad_43.csproj.CoreCompileInputs.cache
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\bin\Debug\net6.0\dz_zad_43.exe
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\bin\Debug\net6.0\dz_zad_43.deps.json
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\bin\Debug\net6.0\dz_zad_43.runtimeconfig.json
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\bin\Debug\net6.0\dz_zad_43.dll
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\bin\Debug\net6.0\dz_zad_43.pdb
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\obj\Debug\net6.0\dz_zad_43.dll
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\obj\Debug\net6.0\refint\dz_zad_43.dll
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\obj\Debug\net6.0\dz_zad_43.pdb
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\obj\Debug\net6.0\dz_zad_43.genruntimeconfig.cache
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\dz_zad_43\obj\Debug\net6.0\ref\dz_zad_43.dll
