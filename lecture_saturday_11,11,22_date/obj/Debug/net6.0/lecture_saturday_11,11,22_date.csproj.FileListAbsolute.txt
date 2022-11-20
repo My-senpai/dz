@@ -1,0 +1,15 @@
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\obj\Debug\net6.0\lecture_saturday_11,11,22_date.csproj.AssemblyReference.cache
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\obj\Debug\net6.0\lecture_saturday_11,11,22_date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\obj\Debug\net6.0\lecture_saturday_11,11,22_date.AssemblyInfoInputs.cache
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\obj\Debug\net6.0\lecture_saturday_11,11,22_date.AssemblyInfo.cs
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\obj\Debug\net6.0\lecture_saturday_11,11,22_date.csproj.CoreCompileInputs.cache
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\bin\Debug\net6.0\lecture_saturday_11,11,22_date.exe
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\bin\Debug\net6.0\lecture_saturday_11,11,22_date.deps.json
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\bin\Debug\net6.0\lecture_saturday_11,11,22_date.runtimeconfig.json
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\bin\Debug\net6.0\lecture_saturday_11,11,22_date.dll
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\bin\Debug\net6.0\lecture_saturday_11,11,22_date.pdb
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\obj\Debug\net6.0\lecture_saturday_11,11,22_date.dll
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\obj\Debug\net6.0\refint\lecture_saturday_11,11,22_date.dll
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\obj\Debug\net6.0\lecture_saturday_11,11,22_date.pdb
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\obj\Debug\net6.0\lecture_saturday_11,11,22_date.genruntimeconfig.cache
+C:\Users\sanya\OneDrive\Рабочий стол\C#\veb4\lecture_saturday_11,11,22_date\obj\Debug\net6.0\ref\lecture_saturday_11,11,22_date.dll
