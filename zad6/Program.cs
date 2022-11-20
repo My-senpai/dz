@@ -13,10 +13,10 @@ int GetNumber(string msg)
 
 void Check(int a, int b, int c)
 {
-    if (a <(b + c) && c < (a + b) && b < (a + c))
-    System.Console.WriteLine("такой треугольник есть");
-    else 
-    System.Console.WriteLine("такого треугольника нет");
+    if (a < (b + c) && c < (a + b) && b < (a + c))
+        System.Console.WriteLine("такой треугольник есть");
+    else
+        System.Console.WriteLine("такого треугольника нет");
 }
 
 

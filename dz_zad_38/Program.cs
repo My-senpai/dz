@@ -30,7 +30,7 @@ double GetMin(double[] array)
     double min = array[0];
     for (int i = 0; i < array.Length; i++)
     {
-        if (min > (array[i])) 
+        if (min > (array[i]))
             min = array[i];
     }
     return min;
@@ -41,7 +41,7 @@ double GetMax(double[] array)
     double max = array[0];
     for (int i = 0; i < array.Length; i++)
     {
-       if (max < (array[i])) 
+        if (max < (array[i]))
             max = array[i];
     }
     return max;

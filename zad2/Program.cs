@@ -11,7 +11,7 @@ int[] InitArray(int n)
     Random rnd = new Random();
     for (int i = 0; i < n; i++)
     {
-        result[i] = rnd.Next(-9,10);
+        result[i] = rnd.Next(-9, 10);
     }
     return result;
 }
@@ -35,14 +35,14 @@ Print(array);
 
 for (int i = 0; i < array.Length; i++)
 {
-    if(number == array[i])
+    if (number == array[i])
     {
         numberIsExist = true;
-        break;    
+        break;
     }
 }
 
-if(numberIsExist)
+if (numberIsExist)
 {
     Console.WriteLine("Да.");
 }

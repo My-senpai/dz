@@ -19,8 +19,8 @@ int check(int n)
     int count = 0;
     for (int i = 0; i < n; i++)
     {
-        if (GetNumber("Введите число ") > 0) count ++;
-        
+        if (GetNumber("Введите число ") > 0) count++;
+
     }
     return count;
 }

@@ -8,7 +8,7 @@ int[] InitArray(int n)
     Random rnd = new Random();
     for (int i = 0; i < n; i++)
     {
-        result[i] = rnd.Next(-9,10);
+        result[i] = rnd.Next(-9, 10);
     }
     return result;
 }
@@ -21,12 +21,12 @@ void Print(int[] array)
     Console.WriteLine();
 }
 
-int[] Result( int[] array)
+int[] Result(int[] array)
 {
     int[] result = new int[array.Length];
     for (int i = 0; i < array.Length; i++)
     {
-        result[i] = array[i]*(-1);
+        result[i] = array[i] * (-1);
     }
     return result;
 

@@ -10,7 +10,7 @@ int[] InitArray()
     Random rnd = new Random();
     for (int i = 0; i < 10; i++)
     {
-        result[i] = rnd.Next(-9,100);
+        result[i] = rnd.Next(-9, 100);
     }
     return result;
 }
@@ -23,15 +23,15 @@ void Print(int[] array)
     Console.WriteLine();
 }
 
-int Result( int[] array)
+int Result(int[] array)
 
 {
     int num = 0;
-        for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
-        if (array[i] <=99 && array[i] >=10)
+        if (array[i] <= 99 && array[i] >= 10)
         {
-        num++;
+            num++;
         }
     }
     return num;

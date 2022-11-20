@@ -7,9 +7,9 @@
 
 int GetNumber(string msg)
 {
-Console.Write(msg);
-int message = Convert.ToInt32(Console.ReadLine());
-return message;
+    Console.Write(msg);
+    int message = Convert.ToInt32(Console.ReadLine());
+    return message;
 }
 
 string NumberConvert(int userNumber)
@@ -17,21 +17,21 @@ string NumberConvert(int userNumber)
 Надо делить на 2 пока результат от деления на 2 не будет < 2
 */
 {
-string result = String.Empty;
+    string result = String.Empty;
 
-while(userNumber != 0)
-{
-result += userNumber % 2;
-userNumber = userNumber / 2;
-}
+    while (userNumber != 0)
+    {
+        result += userNumber % 2;
+        userNumber = userNumber / 2;
+    }
 
-return result;
+    return result;
 }
 
 string Revert(string a)
 {
-string resultA = new string(a.Reverse().ToArray());
-return resultA;
+    string resultA = new string(a.Reverse().ToArray());
+    return resultA;
 }
 
 int numberA = GetNumber("Введите число: ");

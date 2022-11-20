@@ -11,7 +11,7 @@ int[] PositiveArray()
     Random rnd = new Random();
     for (int i = 0; i < result.Length; i++)
     {
-        result[i] = rnd.Next(100,1000);
+        result[i] = rnd.Next(100, 1000);
     }
     return result;
 }
@@ -33,7 +33,7 @@ void check(int[] array)
     for (int i = 0; i < array.Length; i++)
     {
         if (array[i] % 2 == 0) count++;
-        
+
     }
     System.Console.WriteLine(count);
 }
